@@ -1,0 +1,29 @@
+name: manheim
+favicon: null
+layout_spectrum: 0.4919815759640187
+typography_spectrum: 0.9036206118762493
+title: Test Site
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.806895884918049
+  lightness: 0.4572633558418602
+  saturation: 0.739372770069167
+  rhythmicContrast: 0.5372674851678312
+purpose: []
