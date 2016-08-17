@@ -1,20 +1,4 @@
-name: manheim
-favicon: null
-layout_spectrum: 0
 typography_spectrum: 0.9036206118762493
-title: Test Site
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#0175a6'
@@ -26,4 +10,24 @@ color:
   lightness: 0.4572633558418602
   saturation: 0.739372770069167
   rhythmicContrast: 0.5372674851678312
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: manheim
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Test
+    id: dd8bc034-51bb-4ce6-84b0-73dd9239e837
+    type: content
+favicon: null
+title: Test Site
 purpose: []
